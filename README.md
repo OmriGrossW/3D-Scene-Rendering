@@ -24,7 +24,7 @@ When right mouse button is pressed zoom in when the mouse moving up and
 zoom out when the mouse moving down. When middle mouse button is
 pressed move the camera left and right according to mouse movement.
 
-Scene mode: rotation and translation should be carried according to the
+Scene mode: Rotation and translation should be carried according to the
 camera frame of reference, that is, the scene should be rotated around it's
 center, but the rotation axes are parallel to the rotation axes of the camera.
 For example, by moving the mouse from left to right horizontally while in
